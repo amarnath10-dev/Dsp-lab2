@@ -7,7 +7,7 @@ This repository contains practical experiments for the Digital Signal Processing
 
 ## Team Members
 - **ALAMEEN M RASHEED**
-- **AMARNADH**
+- **AMARNATH RAJESH**
 
 ---
 
